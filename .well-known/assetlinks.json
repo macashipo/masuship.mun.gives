@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.masuship.dev",
+            "sha256_cert_fingerprints": [
+			  "20:9F:86:5A:77:31:1D:B6:D6:BE:74:BE:3B:46:A1:DA:B8:D4:A9:35:79:C5:61:3D:36:66:8C:47:15:12:49:C9"
+            ]
+        }
+    }
+]
